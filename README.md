@@ -19,4 +19,9 @@ This project showcases the integration of machine learning models with web devel
 - jQuery
 
 
+**Example Screenshot**
+
+![Sample Output](output/Output_Image.png)
+
+
 If you have any questions or suggestions, feel free to contact me https://www.linkedin.com/in/unzila-092b15201.
