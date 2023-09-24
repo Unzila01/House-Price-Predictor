@@ -20,7 +20,6 @@ This project showcases the integration of machine learning models with web devel
 
 
 **Example Screenshot**
-
 ![Sample Output](output/Output_Image.png)
 
 
